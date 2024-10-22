@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|c:\\users\\abdel\\onedrive\\documents\\dungeons-main\\assets\\scripts\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\assets\\scripts\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|c:\\users\\abdel\\onedrive\\documents\\dungeons-main\\assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\assets\\scripts\\dungeonsgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dungeonsgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\assets\\scripts\\roomsgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roomsgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\assets\\scripts\\delaunay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\delaunay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\assets\\scripts\\bsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|c:\\users\\abdel\\onedrive\\documents\\dungeons-main\\assets\\scripts\\mst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9CC165-A830-27FD-F771-A735487F2B8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DungeonsGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\DungeonsGeneration.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DungeonsGeneration.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\DungeonsGeneration.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DungeonsGeneration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:06:49.082Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\Node.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Node.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\Node.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:12:10.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\Grid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Grid.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\Grid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Grid.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:11:46.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\Room.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Room.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\Room.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:55:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomsGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\RoomsGeneration.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoomsGeneration.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\RoomsGeneration.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoomsGeneration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:22:31.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BSP.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\BSP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BSP.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\BSP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BSP.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:08:31.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delaunay.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\Delaunay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Delaunay.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\Delaunay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Delaunay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:38:09.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MST.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\MST.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MST.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Documents\\Dungeons-main\\Assets\\Scripts\\MST.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MST.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:34:12.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
