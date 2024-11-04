@@ -6,7 +6,7 @@ using UnityEngine;
 public class MST
 {
     public MST() { }
-    public void FindMST(List<Room> nodes)
+    public List<Room> FindMST(List<Room> nodes)
     {
         List<Room> visitedNodes = new List<Room>();
         List<Room> outPut = new List<Room>();
@@ -58,10 +58,11 @@ public class MST
                 closestRoom.isConnected = true;
             }
         }
-        for (int i = 0; i < outPut.Count - 1; i += 2)
+        /*for (int i = 0; i < outPut.Count - 1; i += 2)
         {
             Debug.DrawLine(new Vector3(outPut[i].position.x, 0, outPut[i].position.y), new Vector3(outPut[i + 1].position.x, 0, outPut[i + 1].position.y), Color.red, 100f);
-        }
+        }*/
+        return outPut;
     }
 
     Room FindRoom(Vector2 point, List<Room> rooms)
